@@ -7,7 +7,7 @@
 #
 # declare STRING variable
 STRING="Scripts examples"
-f_dchpd_conf="https://github.com/joan032/Linux_dhcp/blob/main/dhcpd.conf"
+f_dchpd_conf="https://github.com/joan032/Linux_dhcp.git/dhcpd.conf"
 #print variable on a screen
 echo $STRING
 
